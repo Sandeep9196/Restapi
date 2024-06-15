@@ -1,3 +1,3 @@
-module checkfile
+module slicefile
 
 go 1.22.2
